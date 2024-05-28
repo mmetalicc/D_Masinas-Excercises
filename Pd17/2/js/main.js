@@ -1,0 +1,1 @@
+document.getElementById('mmetalicc').innerHTML = "Sveiki, aš esu naujas tekstas!";
